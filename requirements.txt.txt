@@ -1,0 +1,5 @@
+groq
+phidata
+gradio
+sqlalchemy
+pyodbc
