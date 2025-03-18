@@ -6,7 +6,7 @@ import pyodbc
 import warnings 
 import gradio as gr
 from io import StringIO
-import sys
+import sys 
 import re
 warnings.filterwarnings("ignore")
 
